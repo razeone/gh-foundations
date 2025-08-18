@@ -7,8 +7,9 @@ Welcome to **GH Foundations**! This repository is designed to help modern develo
 
 1. [Project Overview](#project-overview)
 2. [Git Explanations](#git-explanations)
-3. [Modern Developer Tools](#modern-developer-tools)
-4. [Certification Preparation Guide](#certification-preparation-guide)
+3. [Advanced Git Guides](#advanced-git-guides)
+4. [Modern Developer Tools](#modern-developer-tools)
+5. [Certification Preparation Guide](#certification-preparation-guide)
 
 ---
 
@@ -68,6 +69,41 @@ git merge <branch_name>
 - Use branches for features and fixes.
 - Regularly pull changes to stay up-to-date.
 - Resolve conflicts promptly.
+
+---
+
+## Advanced Git Guides
+
+For developers ready to master advanced Git concepts and real-world scenarios:
+
+### 📚 Comprehensive Git Documentation
+
+- **[GIT-MEDIUM.md](./GIT-MEDIUM.md)** - Intermediate Git concepts with practical scenarios
+  - Interactive rebase and commit management
+  - Advanced stash operations
+  - Conflict resolution techniques
+  - Git hooks and automation
+  - Working with multiple remotes
+
+- **[GIT-ADVANCED.md](./GIT-ADVANCED.md)** - Expert-level Git techniques and complex workflows
+  - Advanced merge strategies
+  - Submodules and subtrees
+  - Git bisect for debugging
+  - Performance optimization
+  - Git internals and troubleshooting
+
+- **[GIT-MERGE-STRATEGIES.md](./GIT-MERGE-STRATEGIES.md)** - Complete guide to Git merge strategies
+  - Fast-forward vs non-fast-forward merges
+  - Recursive, octopus, ours, and subtree strategies
+  - Conflict resolution patterns
+  - Merge vs rebase decision guide
+
+- **[GIT-SCENARIOS.md](./GIT-SCENARIOS.md)** - Real-world problem solving with practical examples
+  - Emergency hotfixes and rollback strategies
+  - Team collaboration workflows
+  - Release management scenarios
+  - Data recovery techniques
+  - Large codebase management
 
 ---
 
